@@ -16,6 +16,12 @@ Allows users to add, mark as completed, and delete tasks while displaying a live
 
 ---
 
+## Download the APK 
+You can download the app from here :
+[Download To-Do-List APK] (https://www.upload-apk.com/en/RFNiY7921pZ581G)
+
+---
+
 ## How to Use
 
 1. Type a new task in the input field.
