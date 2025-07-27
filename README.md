@@ -31,15 +31,7 @@ You can download the app from here :
 5. The task counter on the top-right updates automatically to show the number of tasks.
 
 ---
-
-## Project Structure
-
-├── index.html # Main HTML markup of the To-Do app
-├── styles.css # CSS styling for the layout and design
-├── script.js # JavaScript to handle task addition, deletion, and completion toggling
-└── README.md # This documentation file
-
----
+ 
 
 ## Technologies Used
 
